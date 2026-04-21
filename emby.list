@@ -1,0 +1,34 @@
+# ================== 自定义规则集 ==================
+# 用途：Emby / 媒体 / 直连域名 + IP（按你提供的列表整理）
+# 规则顺序已优化，DOMAIN-SUFFIX 放前面，IP 放后面
+
+DOMAIN-SUFFIX,biliblili.uk
+DOMAIN-SUFFIX,5165161.xyz
+DOMAIN-SUFFIX,gousen.cc.cd
+DOMAIN-SUFFIX,223789.xyz
+DOMAIN-SUFFIX,cf.xmsl.org
+DOMAIN-SUFFIX,white.28.al
+DOMAIN-SUFFIX,emby.my
+DOMAIN-SUFFIX,saturdayent.top
+DOMAIN-SUFFIX,luxrealm.space
+DOMAIN-SUFFIX,okemby.org
+DOMAIN-SUFFIX,892818.xyz
+DOMAIN-SUFFIX,cynn.top
+DOMAIN-SUFFIX,8211992.xyz
+DOMAIN-SUFFIX,764374236.xyz
+DOMAIN-SUFFIX,83787.de
+DOMAIN-SUFFIX,reily999.top
+DOMAIN-SUFFIX,paoluma.de
+DOMAIN-SUFFIX,552554.xyz
+DOMAIN-SUFFIX,liminalnet.pro
+DOMAIN-SUFFIX,sadchicktv.com
+DOMAIN-SUFFIX,miraiemby.com
+DOMAIN-SUFFIX,jiedaibao.gs
+DOMAIN-SUFFIX,fufuemby.top
+DOMAIN-SUFFIX,sanluoluo.com
+DOMAIN-SUFFIX,luminoustrace.xyz
+# ================== IP 类 ==================
+IP-CIDR,120.24.31.23/32
+
+# ================== 兜底（必须放在最后） ==================
+MATCH
